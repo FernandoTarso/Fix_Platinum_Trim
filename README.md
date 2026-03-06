@@ -9,3 +9,6 @@ of the game instance, and enableing it in-game. That is done though home/pause m
 Select it on the left side.
 
 It should work to do the same process server side, but I didn't test it yet.
+
+Client side fix:
+https://github.com/FernandoTarso/Fix_Platinum_Trim/releases/tag/v1.0
